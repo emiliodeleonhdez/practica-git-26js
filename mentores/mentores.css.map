@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,CAAC;EACV,KAAK,EAAE,KAAK;EACZ,SAAS,EAAE,KAAK;CACnB;;AAED,AAAA,oBAAoB,CAAC;EACjB,aAAa,EAAE,GAAG;EAClB,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;CAChB",
+    "sources": [
+        "mentores.scss"
+    ],
+    "names": [],
+    "file": "mentores.css"
+}
